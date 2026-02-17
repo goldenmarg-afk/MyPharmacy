@@ -1,6 +1,3 @@
-# MyPharmacy
-A complete Pharmacy Managment system
-[pharmacy22.html](https://github.com/user-attachments/files/25368666/pharmacy22.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
