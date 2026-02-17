@@ -97,7 +97,7 @@ footer{background:var(--dark);color:#fff;text-align:center;padding:25px;margin-t
 <body>
 
 <header>
-  <h1 class="rgb-text">Vmd Pharmacy Billing Software</h1>
+  <h1 class="rgb-text">My Pharmacy Billing Software</h1>
   <p>Fast • Secure • GST‑Ready Billing & Inventory Solution for Medical Stores</p>
 </header>
 
